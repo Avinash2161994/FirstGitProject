@@ -1,1 +1,1 @@
-# FirstGitProject  This is my slave project
+ This is my slave project
